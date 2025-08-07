@@ -1,6 +1,7 @@
 body {
     color: rgb(255, 253, 253);
     background: rgb(25, 11, 231);
+    font-family: "Pixelify Sans", sans-serif;
 }header {
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
@@ -21,8 +22,5 @@ body {
     display: flex;
     justify-content: center;
  
-  font-family: "Pixelify Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+  
 }
